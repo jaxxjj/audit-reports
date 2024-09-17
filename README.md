@@ -9,3 +9,5 @@
 - Failure to initialize
 - Oracle Manipulation
 - Storage Collision
+- Opcode Support
+- Signature Replay
